@@ -1,5 +1,6 @@
-# LunarRocks
+# Lunar Rocks
 Solution to a HackerEarth challenge to Classify Lunar Rocks based on their size
+https://www.hackerearth.com/problem/machine-learning/lunar-rock-recognition-43274e07-04533c43/description/
 
 Tools used
 Keras, python3, pretrained ImageNet model
