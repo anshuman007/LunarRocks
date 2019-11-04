@@ -4,7 +4,7 @@ Solution to a HackerEarth challenge to Classify Lunar Rocks based on their size
 Tools used
 Keras, python3, pretrained ImageNet model
 
-Actual Process
+Process
 1. Download the ImageNet model
 2. Set the training parameters to the appropriate values
 3. Train the last layer on given training set
