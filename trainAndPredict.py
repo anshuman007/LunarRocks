@@ -6,7 +6,6 @@ from keras.models import Model
 import csv
 import numpy as np
 from collections import OrderedDict
-import pickle
 
 from keras.preprocessing import image
 
