@@ -1,0 +1,2 @@
+Fetch all images from http://hck.re/kkBIfM
+and unzip all Training images to this folder

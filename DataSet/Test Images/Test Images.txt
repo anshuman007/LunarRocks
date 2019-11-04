@@ -1,0 +1,2 @@
+Fetch all Test Images from http://hck.re/kkBIfM
+and unzip all Test images to this path
